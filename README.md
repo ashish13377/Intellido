@@ -152,4 +152,4 @@ Feel free to open issues if you encounter any problems or have suggestions.
 ### License
 -------
 
-This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE).
+This project is licensed under the [MIT License](https://github.com/ashish13377/Intellido?tab=MIT-1-ov-file).
