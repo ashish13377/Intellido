@@ -1,0 +1,18 @@
+I want to create todos for the anniversary party
+
+Please add the suggested todos and label them as 'Anniversary Party'.
+
+Yes, please add a task to call my close friend Tuhin's family for an invitation.
+
+Show me all my anniversary party todos.
+
+
+Create a new task 'Buy Flights Tickets to Bali' with label it as 'Travel to Bali'
+
+Show me all my 'Travel to Bali' todos.
+
+Find all my tasks that mention 'Bali'
+
+Mark all tasks mentioning 'Bali' as completed.
+
+Delete all my completed tasks.
