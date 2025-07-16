@@ -1,7 +1,7 @@
 # Intellido 🚀🤖
 ***
 
-An **AI agent** called **Intellido** was created to increase your productivity from the terminal and the UI-based Dashboard (**which is currently in production**). It helps with everything from deep data search to natural language interactions by utilizing the capabilities of both ***DeepSeek R1*** and the ***OpenAI API***. Additionally, you have the ability to handle your **own to-do** lists either fully independently or with some assistance from the **AI Agent** !
+An **AI agent** called **Intellido** was created to increase your productivity from the terminal and the UI-based Dashboard (**which is currently in development**). It helps with everything from deep data search to natural language interactions by utilizing the capabilities of both ***DeepSeek R1*** and the ***OpenAI API***. Additionally, you have the ability to handle your **own to-do** lists either fully independently or with some assistance from the **AI Agent** !
 
 Table of Contents
 -----------------
